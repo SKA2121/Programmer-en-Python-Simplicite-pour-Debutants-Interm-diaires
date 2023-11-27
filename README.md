@@ -1,4 +1,4 @@
-# Programmer-en-Python-Simplicite-pour-Debutants-Interm-diaires
+# Python Express :  De Débutant à Expert en un clin d'oeil
 Bienvenue dans le référentiel "Programmer en Python : Simplicité pour Débutants et Intermédiaires" ! Si vous êtes ici, vous êtes probablement en train de lire mon livre du même nom. Ce référentiel est spécialement conçu pour vous accompagner dans votre apprentissage de Python, en complément du contenu de notre livre.
 
 Ce référentiel est destiné à héberger les exercices pratiques et les exemples de code qui accompagnent notre livre. Si vous suivez le livre, vous trouverez ici les ressources nécessaires pour mettre en pratique les concepts que vous y découvrirez. Vous pouvez explorer, cloner et contribuer à ce référentiel pour approfondir vos compétences en Python.
